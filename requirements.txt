@@ -3,7 +3,7 @@ chardet==3.0.4
 Click==7.0
 cloudpickle==0.6.1
 cycler==0.10.0
-dask==0.19.4
+dask==2021.10.0
 distributed==1.23.3
 Flask==1.0.2
 gunicorn==19.9.0
